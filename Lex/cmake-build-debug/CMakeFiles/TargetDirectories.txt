@@ -1,0 +1,3 @@
+D:/pascal2c/Lex_5_2/Lex/cmake-build-debug/CMakeFiles/Lex.dir
+D:/pascal2c/Lex_5_2/Lex/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/pascal2c/Lex_5_2/Lex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
